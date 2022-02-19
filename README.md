@@ -4,7 +4,8 @@ A new Flutter project.
 Download the apk and get started 
 https://github.com/revand5467/ExpenseCalculator/blob/main/Expense%20Calculator%20.apk 
 ## Getting Started
-![image](https://user-images.githubusercontent.com/79699023/154787972-2ee719e0-96f5-4c91-936b-84578e8ed780.png)
+![Untitled design](https://user-images.githubusercontent.com/79699023/154790065-3078b2be-f47b-4a3e-b988-ddf81d4c1244.gif)
+
 
 This project is a starting point for a Flutter application.
 
