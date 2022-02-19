@@ -1,7 +1,8 @@
 # notes
 
 A new Flutter project.
-
+Download the apk and get started 
+https://github.com/revand5467/ExpenseCalculator/blob/main/Expense%20Calculator%20.apk 
 ## Getting Started
 
 This project is a starting point for a Flutter application.
